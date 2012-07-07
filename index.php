@@ -30,7 +30,7 @@
 
 
 
-	<script>$(window).load(function(){load("les_miserables")});</script>
+	<script>$(window).load(function(){load("les_miserables")});</script>//Replace this name by your GEXF within the extension
 
 
 
