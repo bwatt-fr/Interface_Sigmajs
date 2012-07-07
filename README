@@ -1,7 +1,7 @@
-This script based on sigmajs allows to easily visualize a gexf.
+This script based on sigmajs and facenuke allows to easily visualize a gexf.
 You just have to place your gexf into the repertory Gexf, and replace the file
 les_miserables by your file (within the .gexf) in index.php.
-Thanks to Alexy Jacomy who developped sigmajs, used by this script,
+Thanks to Alexy Jacomy who developped sigmajs, greenpeace who developped facenuke, used by this script
 and Nicolas Leleu (aka nleleu) and Perinne Letellier who developped this script
 with me.
 There are no comments in the script for the moment, but they will come as soon as possible
